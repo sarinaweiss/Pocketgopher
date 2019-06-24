@@ -1,0 +1,613 @@
+﻿site,gopher,field_id,percent_comp,family,genus,species,common,date,Notes,Invasive
+AWA1_1,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,Sand Blackberry,24-Mar-18,,N
+AWA1_1,0,Wiregrass,49,Poaceae,Aristida ,stricta,Wiregrass,24-Mar-18,,N
+AWA1_1,0,Huckleberry,20,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_1,0,Silkgrass aster,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_1,0,Fat trifoliate,1,Fabaceae,Desmodium ,lineatum,Desmodium,24-Mar-18,,N
+AWA1_1,0,Heart cordate,1,Violaceae,Viola,,Violet,24-Mar-18,,
+AWA1_1,0,Splitleaf heart,1,Violaceae,Viola,palmata,Violet,24-Mar-18,,N
+AWA1_1,0,Andropogon,20,Poaceae,Andropogon ,,Broomsedge/Bluestem,24-Mar-18,,
+AWA1_1,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,False flowering spurge,24-Mar-18,,N
+AWA1_1,0,Panicum,10,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_2,0,Wiregrass,50,Poaceae,Aristida ,stricta,Wiregrass,24-Mar-18,,N
+AWA1_2,0,Huckleberry,1,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_2,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,False flowering spurge,24-Mar-18,,N
+AWA1_2,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,Sand Blackberry,24-Mar-18,,N
+AWA1_2,0,Low Panicum 2,1,Poaceae,Dichanthelium, dichotomum,Cypress Panic Grass,24-Mar-18,,N
+AWA1_2,0,Granny,1,Asteraceae,Chrysopsis ,gossypinus,Goldenaster,24-Mar-18,,N
+AWA1_2,0,Boring Berry,1,Ericaceae,Gaylussacia ,dumosa,Dwarf Huckleberry,24-Mar-18,,N
+AWA1_2,0,Furry alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,24-Mar-18,,N
+AWA1_2,0,Andropogon,49,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_3,0,Huckleberry,2,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_3,0,Boring Berry,1,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_3,0,Wiregrass,90,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_3,0,Panicum,3,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_3,0,Furry Alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,24-Mar-18,,N
+AWA1_3,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA1_3,0,Fat Trifoliate,1,Fabaceae,Desmodium ,lineatum,Desmodium,24-Mar-18,,N
+AWA1_3,0,Clever ,1,Rubiaceae,Galium ,pilosum,Cleaver,24-Mar-18,,N
+AWA1_3,0,Silkgrass,3,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_4,0,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_4,0,Huckleberry,20,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_4,0,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_4,0,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_4,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_4,0,Andropogon,40,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_4,0,Subaxe,1,Asteraceae,Symphyotrichum ,adnatum,clasping aster/scaleleaf aster,24-Mar-18,,N
+AWA1_4,0,Granny,1,Asteraceae,Chrysopsis ,gossypinus,goldenaster,24-Mar-18,,N
+AWA1_4,0,Cherry?,1,Cornaceae,Nyssa ,,blackgum/tupelo,24-Mar-18,,
+AWA1_4,0,Pink Stem Whorl,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA1_5,0,Huckleberry,15,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_5,0,Panicum,15,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_5,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_5,0,Wiregrass,20,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_5,0,Pink Stem Whorl,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA1_5,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA1_5,0,Andropogon,49,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_6,0,Huckleberry,5,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_6,0,Wiregrass,10,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_6,0,Smilax,2,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,24-Mar-18,,N
+AWA1_6,0,Fat Trifoliolate,1,Fabaceae,Desmodium ,lineatum,Desmodium,24-Mar-18,,N
+AWA1_6,0,Fuzzy Alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,24-Mar-18,,N
+AWA1_6,0,Butterfly Pea,1,Fabaceae,Desmodium,lineatum,Desmodium,24-Mar-18,,N
+AWA1_6,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA1_6,0,Cherry?,1,Cornaceae,Nyssa ,,blackgum/tupelo,24-Mar-18,,
+AWA1_6,0,Pine Litter,78,Pinaceae,Pinus ,palustris,longleaf pine,24-Mar-18,,N
+AWA1_7,0,Wiregrass,45,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_7,0,Runner Oak,10,Fagaceae,Quercus ,virginiana,Live oak,24-Mar-18,,N
+AWA1_7,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_7,0,Huckleberry,5,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_7,0,Not Clover,10,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,24-Mar-18,,N
+AWA1_7,0,Panicum,15,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_7,0,Smilax,1,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,24-Mar-18,,N
+AWA1_7,0,Sassafras,1,Styracaceae,Halesia ,,silverbells tree,24-Mar-18,,
+AWA1_7,0,Loneleaf,1,Fabaceae,Centrosema ,virginiana,spurred butterfly pea,24-Mar-18,,N
+AWA1_7,0,Clever,1,Rubiaceae,Galium ,pilosum,Cleaver,24-Mar-18,,N
+AWA1_7,0,Andropogon,1,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_7,0,Alternate,14,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA1_8,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_8,0,Huckleberry,25,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_8,0,Wiregrass,50,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_8,0,Panicum,25,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_8,0,Clever,1,Rubiaceae,Galium ,pilosum,Cleaver,24-Mar-18,,N
+AWA1_8,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA1_8,0,Cherry?,1,Cornaceae,Nyssa ,,blackgum/tupelo,24-Mar-18,,
+AWA1_8,0,Buddy,1,NA,NA,NA,NA,24-Mar-18,unidentified,
+AWA1_8,0,Black Cherry,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,24-Mar-18,,N
+AWA1_9,0,Wiregrass,25,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_9,0,Boring Berry,35,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_9,0,Huckleberry,15,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_9,0,Silkgrass,24,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_9,0,Clever,1,Rubiaceae,Galium ,pilosum,Cleaver,24-Mar-18,,N
+AWA1_9,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_10,0,Gopher Apple,,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_10,0,Huckleberry,,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_10,0,Wiregrass,,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_10,0,Silkgrass,,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_10,0,Granny,,Asteraceae,Chrysopsis ,gossypinus,goldenaster,24-Mar-18,,N
+AWA1_10,0,Panicum 2,,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA1_10,0,Fat Trifoliolate,,Fabaceae,Desmodium ,lineatum,Desmodium,24-Mar-18,,N
+AWA1_10,0,Fuzzy Red Stem,5,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,24-Mar-18,,N
+AWA1_11,0,Wiregrass,88,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_11,0,Panicum ,5,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_11,0,Subaxe,1,Asteraceae,Symphyotrichum ,adnatum,clasping aster/scaleleaf aster,24-Mar-18,,N
+AWA1_11,0,Gopher Apple,3,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_11,0,Huckleberry,3,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_12,0,Huckleberry,25,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_12,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_12,0,Smilax,3,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,24-Mar-18,,N
+AWA1_12,0,Cherry?,1,Cornaceae,Nyssa ,,blackgum/tupelo,24-Mar-18,,
+AWA1_12,0,Gopher Apple,9,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_12,0,Panicum,20,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_12,0,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_12,0,Silkgrass,20,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_12,0,Clever,1,Rubiaceae,Galium ,pilosum,Cleaver,24-Mar-18,,N
+AWA1_12,0,Runner Oak,2,Fagaceae,Quercus ,virginiana,Live oak,24-Mar-18,,N
+AWA1_12,0,Butterfly Pea,1,Fabaceae,Desmodium,lineatum,Desmodium,24-Mar-18,,N
+AWA1_12,0,Splitleaf Heart,1,Violaceae,Viola,palmata,Violet,24-Mar-18,,N
+AWA1_13,0,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_13,0,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_13,0,Huckleberry,30,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_13,0,Gopher Apple,1,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_13,0,Butterfly pea 2,1,Asteraceae,Symphyotrichum ,adnatum,clasping aster/scaleleaf aster,24-Mar-18,,N
+AWA1_13,0,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+AWA1_13,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA1_13,0,Subaxe,1,Fabaceae,Clitoria ,mariana,butterfly pea/atlantic pigeon wings,24-Mar-18,,N
+AWA1_13,0,Panicum ,20,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_14,0,Andropogon,40,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_14,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_14,0,Huckleberry,5,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_14,0,Wiregrass,50,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_14,0,Gopher Apple,4,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_14,0,Clever,1,Rubiaceae,Galium ,pilosum,Cleaver,24-Mar-18,,N
+AWA1_14,0,Subaxe,1,Fabaceae,Clitoria ,mariana,butterfly pea/atlantic pigeon wings,24-Mar-18,,N
+AWA1_15,0,Wiregrass,75,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_15,0,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_15,0,Huckleberry,1,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_15,0,Bracken Fern,1,Dennstaedtiaceae,Pteridium ,aquilinum,bracken fern,24-Mar-18,,N
+AWA1_15,0,Panicum,4,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_15,0,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_16,0,Wiregrass,80,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_16,0,Huckleberry,5,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_16,0,Gopher Apple,5,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_16,0,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_16,0,Panicum,4,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_16,0,Quercus,1,Fagaceae,Quercus ,falcata,southern red oak,24-Mar-18,,N
+AWA1_17,0,Wiregrass,85,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_17,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA1_17,0,Splitleaf Heart ,1,Violaceae,Viola,palmata,Violet,24-Mar-18,,N
+AWA1_17,0,Boring Berry,1,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+AWA1_17,0,Posion Oak,1,Anacardiaceae,Toxicodendron ,pubescens,poison oak,24-Mar-18,,N
+AWA1_17,0,Andropogon,5,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_17,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA1_17,0,Sparkleberry,1,Ericaceae,Vaccinium ,arboreum,sparkleberry/farkleberry,24-Mar-18,,N
+AWA1_17,0,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA1_17,0,Fuzzy Alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,24-Mar-18,,N
+AWA1_18,0,Posion Oak,5,Anacardiaceae,Toxicodendron ,pubescens,poison oak,24-Mar-18,,N
+AWA1_18,0,Huckleberry,10,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA1_18,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA1_18,0,Wiregrass,80,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA1_18,0,Andropogon,4,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA1_18,0,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA1_18,0,White mid vein,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,24-Mar-18,,N
+AWA1_18,0,Leaf Furl,1,Fabaceae,Tephrosia ,virginiana,Virginiana Tephrosia,24-Mar-18,,N
+AWA2_1,0,Rubus,25,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_1,0,Little Round Leaf,20,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_1,0,Alternate,10,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA2_1,0,Panicum,10,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA2_1,0,Sumac,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,24-Mar-18,,N
+AWA2_1,0,Pine Litter,34,Pinaceae,Pinus ,palustris,longleaf pine,24-Mar-18,,N
+AWA2_2,0,Huckleberry,30,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_2,0,Silkgrass,15,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_2,0,Rubus,10,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_2,0,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA2_2,0,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_2,0,Mimosa/Sensitive Fern,1,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,24-Mar-18,,N
+AWA2_2,0,Andropogon 2,30,Poaceae,Sporobolus,compositus,composite dropseed,24-Mar-18,,N
+AWA2_2,0,Pine Litter,12,Pinaceae,Pinus ,palustris,longleaf pine,24-Mar-18,,N
+AWA2_3,0,Huckleberry,15,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_3,0,Rubus,15,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_3,0,Heart 2,1,Convolvulaceae,Dichondra ,carolinensis,Carolina ponysfoot,24-Mar-18,,N
+AWA2_3,0,Andropogon 2,50,Poaceae,Sporobolus,compositus,composite dropseed,24-Mar-18,,N
+AWA2_3,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA2_3,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_3,0,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_3,0,Butterfly Pea 2,1,Asteraceae,Symphyotrichum ,adnatum,clasping aster/scaleleaf aster,24-Mar-18,,N
+AWA2_3,0,Ace Venation,1,Ophioglossaceae,Botrychium ,,moonwort,24-Mar-18,,
+AWA2_3,0,Leaf Litter,14,NA,NA,NA,NA,24-Mar-18,,
+AWA2_4,0,Quercus,40,Fagaceae,Quercus ,nigra,water oak,24-Mar-18,,N
+AWA2_4,0,Huckleberry,10,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_4,0,Silkgrass,3,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_4,0,Holly 1,2,Rosaceae,Crataegus ,,Hawthorn,24-Mar-18,,
+AWA2_4,0,Ace Venation,5,Ophioglossaceae,Botrychium ,,moonwort,24-Mar-18,,
+AWA2_4,0,Turkey Oak,5,Fagaceae,Quercus ,nigra,water oak,24-Mar-18,,N
+AWA2_4,0,Pine Litter,35,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+AWA2_5,0,Fuzzy Alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,24-Mar-18,,N
+AWA2_5,0,Fat Trifoliolate,1,Fabaceae,Desmodium ,lineatum,Desmodium,24-Mar-18,,N
+AWA2_5,0,Rubus,3,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_5,0,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_5,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_5,0,Huckleberry,2,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_5,0,Quercus,25,Fagaceae,Quercus ,nigra,water oak,24-Mar-18,,N
+AWA2_5,0,Holly 1,1,Rosaceae,Crataegus ,,Hawthorn,24-Mar-18,,
+AWA2_5,0,Cherry?,1,Cornaceae,Nyssa ,,blackgum/tupelo,24-Mar-18,,
+AWA2_5,0,Wiregrass,10,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA2_5,0,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_5,0,Alternate ,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA2_5,0,Runner Oak,1,Fagaceae,Quercus ,virginiana,Live oak,24-Mar-18,,N
+AWA2_5,0,Ace Venation ,1,Ophioglossaceae,Botrychium ,,moonwort,24-Mar-18,,
+AWA2_5,0,Leaf Litter,46,NA,NA,NA,NA,24-Mar-18,,
+AWA2_6,0,Wiregrass,80,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+AWA2_6,0,Huckleberry,8,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_6,0,Rubus,2,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_6,0,Fuzzy Alternate,2,Asteraceae,Vernonia ,angustifolia,tall ironweed,24-Mar-18,,N
+AWA2_6,0,Thick Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_6,0,Andropogon,3,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA2_7,0,Rubus,20,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_7,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA2_7,0,Sumac,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,24-Mar-18,,N
+AWA2_7,0,Panicum,30,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA2_7,0,Wild Garlic/Spring Beauty,1,Liliaceae,Nothoscordum ,bivalve,false garlic/crowpoison,24-Mar-18,,N
+AWA2_7,0,St. Johns Wart,1,Clusiaceae,Hypericum ,suffruticosum,St. John Wort,24-Mar-18,,N
+AWA2_7,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_8,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_8,0,Rubus,10,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_8,0,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA2_8,0,Andropogon,85,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA2_8,0,Wild Garlic/Spring Beauty,1,Liliaceae,Nothoscordum ,bivalve,false garlic/crowpoison,24-Mar-18,,N
+AWA2_8,0,Clever,1,Rubiaceae,Galium ,pilosum,Cleaver,24-Mar-18,,N
+AWA2_8,0,Silkgrass,2,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_8,0,Helianthus ,1,Asteraceae,Gamochaeta ,purpurea,purple cudweed/spoonleaf purple everlasting ,24-Mar-18,old genus Gnaphalium purpureum,N
+AWA2_8,0,Little Round Leaf,2,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_9,0,Andropogon,5,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA2_9,0,Helianthus ,1,Asteraceae,Gamochaeta ,purpurea,purple cudweed/spoonleaf purple everlasting ,24-Mar-18,,N
+AWA2_9,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_9,0,Smilax,1,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,24-Mar-18,,N
+AWA2_9,0,Not Clover,1,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,24-Mar-18,,N
+AWA2_9,0,Wood Sorrel,1,Oxalidaceae,Oxalis ,corniculata,wood sorrel,24-Mar-18,,N
+AWA2_9,0,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_9,0,Heart Cordate,1,Violaceae,Viola,,Violet,24-Mar-18,,
+AWA2_9,0,Fuzzy Alternate 2,1,Asteraceae,Symphyotrichum ,dumosum,rice button aster/bushy aster,24-Mar-18,,N
+AWA2_9,0,Helianthus ,1,Asteraceae,Gamochaeta ,purpurea,purple cudweed/spoonleaf purple everlasting ,24-Mar-18,,N
+AWA2_9,0,Leaf Litter,86,NA,NA,NA,NA,24-Mar-18,,
+AWA2_10,0,Huckleberry,25,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_10,0,Rubus,3,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_10,0,Andropogon,40,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA2_10,0,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_10,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA2_10,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_10,0,Heart Cordate,1,Violaceae,Viola,,Violet,24-Mar-18,,
+AWA2_10,0,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_10,0,Butterfly Pea,1,Fabaceae,Desmodium,lineatum,Desmodium,24-Mar-18,,N
+AWA2_10,0,Pine Oak Litter,26,NA,NA,NA,NA,24-Mar-18,,
+AWA2_11,0,Holly 1,2,Rosaceae,Crataegus ,,Hawthorn,24-Mar-18,,
+AWA2_11,0,Smilax,5,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,24-Mar-18,,N
+AWA2_11,0,Huckleberry,3,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_11,0,Quercus,2,Fagaceae,Quercus ,falcata,southern red oak,24-Mar-18,,N
+AWA2_11,0,Clever 2,5,Rubiaceae,Galium,pilosum,Cleaver,24-Mar-18,,N
+AWA2_11,0,Live Oak,2,Fagaceae,Quercus ,virginiana,Live oak,24-Mar-18,,N
+AWA2_11,0,Moss,1,Bromeliaceae,Tillandsia,usneoides,Spanish Moss,24-Mar-18,,N
+AWA2_11,0,Pine Oak Litter,80,NA,NA,NA,NA,24-Mar-18,,
+AWA2_12,0,Sparkleberry,5,Ericaceae,Vaccinium ,arboreum,sparkleberry/farkleberry,24-Mar-18,,N
+AWA2_12,0,Elephant,5,Asteraceae,Elephantopus ,elatus,tall elephantsfoot,24-Mar-18,,N
+AWA2_12,0,Silkgrass,20,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_12,0,Huckleberry,20,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_12,0,Andropogon,5,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA2_12,0,Post Oak,2,Fagaceae,Quercus ,stellata,post oak,24-Mar-18,,N
+AWA2_12,0,Panicum,10,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA2_12,0,Butterfly Pea,1,Fabaceae,Desmodium,lineatum,Desmodium,24-Mar-18,,N
+AWA2_12,0,Panicum 2,10,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_12,0,Pine Oak Litter,22,NA,NA,NA,NA,24-Mar-18,,
+AWA2_13,0,Huckleberry,40,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_13,0,Rubus,5,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_13,0,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_13,0,Panicum,5,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+AWA2_13,0,Sumac,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,24-Mar-18,,N
+AWA2_13,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_13,0,Holly 1,1,Rosaceae,Crataegus ,,Hawthorn,24-Mar-18,,
+AWA2_13,0,Desmodium,1,Fabaceae,Tephrosia ,spicata,spiked hoarypea,24-Mar-18,,N
+AWA2_13,0,Butterfly Pea,1,Fabaceae,Desmodium,lineatum,Desmodium,24-Mar-18,,N
+AWA2_14,0,Huckleberry,30,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+AWA2_14,0,Rubus,5,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_14,0,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+AWA2_14,0,Little Round Leaf,5,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+AWA2_14,0,Quercus,15,Fagaceae,Quercus ,falcata,southern red oak,24-Mar-18,,N
+AWA2_14,0,Leaf Litter,40,NA,NA,NA,NA,24-Mar-18,,
+AWA2_15,0,Smilax,1,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,24-Mar-18,,N
+AWA2_15,0,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+AWA2_15,0,Fat Triofoliolate,1,Fabaceae,Desmodium ,lineatum,Desmodium,24-Mar-18,,N
+AWA2_15,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_15,0,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+AWA2_15,0,Liver Oak Sprout,1,Fagaceae,Quercus ,virginiana,live oak,24-Mar-18,,N
+AWA2_15,0,Leaf Litter,94,NA,NA,NA,NA,24-Mar-18,,
+AWA2_16,0,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_16,0,Andropogon,1,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+AWA2_16,0,Live Oak,1,Fagaceae,Quercus ,virginiana,live oak,24-Mar-18,,N
+AWA2_16,0,Fuzzy Alternate 2,1,Asteraceae,Symphyotrichum ,dumosum,rice button aster/bushy aster,24-Mar-18,,N
+AWA2_16,0,Heart Cordate,1,Violaceae,Viola,,Violet,24-Mar-18,,
+AWA2_16,0,Leaf Litter,95,NA,NA,NA,NA,24-Mar-18,,
+AWA2_17,0,Live Oak,1,Fagaceae,Quercus ,virginiana,live oak,24-Mar-18,,N
+AWA2_17,0,Leaf Litter,99,NA,NA,NA,NA,24-Mar-18,,
+AWA2_18,0,Black Cherry,40,Rosaceae,Prunus ,serotina,black cherry,24-Mar-18,,N
+AWA2_18,0,Live Oak,15,Fagaceae,Quercus ,virginiana,live oak,24-Mar-18,,N
+AWA2_18,0,Smilax,5,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,24-Mar-18,,N
+AWA2_18,0,Rubus,20,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+AWA2_18,0,Clever,1,Rubiaceae,Galium,pilosum,Cleaver,24-Mar-18,,N
+AWA2_18,0,Sassafras,1,Styracaceae,Halesia ,,silverbells tree,24-Mar-18,,
+AWA2_18,0,Quercus 2,5,Fagaceae,Quercus ,virginiana,live oak,24-Mar-18,,N
+SSP1_1,1,Little Round Leaf,40,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_1,1,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+SSP1_1,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+SSP1_1,1,Silkgrass,20,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+SSP1_1,1,Panicum ,5,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+SSP1_1,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+SSP1_1,1,Lespadeza 1,1,Fabaceae,Lespedeza,striata,Lespedeza,24-Mar-18,,
+SSP1_1,1,Not Poor Joe,4,Cistaceae,Lechea ,mucronata,pinweed,24-Mar-18,,N
+SSP1_1,1,Andropogon,30,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_1,1,Elephant,1,Asteraceae,Elephantopus ,elatus,tall elephantsfoot,24-Mar-18,,N
+SSP1_2,1,Bracken Fern,2,Dennstaedtiaceae,Pteridium ,aquilinum,bracken fern,24-Mar-18,,N
+SSP1_2,1,Wiregrass,60,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_2,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+SSP1_2,1,Huckleberry,20,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,24-Mar-18,,N
+SSP1_2,1,Sparkleberry,1,Ericaceae,Vaccinium ,arboreum,sparkleberry/farkleberry,24-Mar-18,,N
+SSP1_2,1,Andropogon,10,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_2,1,Little Round Leaf,2,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_2,1,Yellow Pea,1,Fabaceae,Crotalaria ,rotundifolia,Rabbitbells,24-Mar-18,,N
+SSP1_2,1,Fuzzy Alternate 2,1,Asteraceae,Symphyotrichum ,dumosum,rice button aster/bushy aster,24-Mar-18,,N
+SSP1_2,1,Helianthus ,1,Asteraceae,Gamochaeta ,purpurea,purple cudweed/spoonleaf purple everlasting ,24-Mar-18,same as original one called Helianthus ,N
+SSP1_3,1,Wiregrass,80,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_3,1,Rubus,15,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+SSP1_3,1,Andropogon,1,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_3,1,Longleaf Seedling (7),2,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+SSP1_3,1,Not Clover,2,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,24-Mar-18,,N
+SSP1_3,1,Yellow Pea,1,Fabaceae,Crotalaria ,rotundifolia,Rabbitbells,24-Mar-18,,N
+SSP1_3,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,24-Mar-18,,N
+SSP1_3,1,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+SSP1_3,1,Sassafras,1,Styracaceae,Halesia ,,silverbells tree,24-Mar-18,,
+SSP1_4,1,Wiregrass,75,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_4,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,on pocket gopher mound,N
+SSP1_4,1,Buttontop,1,Asteraceae,,,aster,24-Mar-18,,
+SSP1_4,1,Yellow Pea,3,Fabaceae,Crotalaria ,rotundifolia,Rabbitbells,24-Mar-18,,N
+SSP1_4,1,Super Fuzzy,1,Acanthaceae,Ruellia ,caroliniensis,Carolina wild petunia,24-Mar-18,on pocket gopher mound,N
+SSP1_4,1,Andropogon,1,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,on pocket gopher mound,
+SSP1_5,1,Bracken Fern,10,Dennstaedtiaceae,Pteridium ,aquilinum,bracken fern,24-Mar-18,,N
+SSP1_5,1,Wiregrass,80,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_5,1,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+SSP1_5,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+SSP1_5,1,Not Poor Joe,1,Cistaceae,Lechea ,mucronata,pinweed,24-Mar-18,,N
+SSP1_5,1,Broccoli,1,Asteraceae,Ambrosia ,artemisiifolia,ragweed,24-Mar-18,,N
+SSP1_5,1,Fuzzy Red Stem ,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,24-Mar-18,,N
+SSP1_6,1,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+SSP1_6,1,Bracken Fern,1,Dennstaedtiaceae,Pteridium ,aquilinum,bracken fern,24-Mar-18,,N
+SSP1_6,1,Wiregrass,10,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_6,1,Andropogon,50,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,on pocket gopher mound,
+SSP1_6,1,Panicum,5,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+SSP1_6,1,Buttontop,1,Asteraceae,,,aster,24-Mar-18,,
+SSP1_6,1,Little Round,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,on pocket gopher mound,N
+SSP1_6,1,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,24-Mar-18,,N
+SSP1_6,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+SSP1_6,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,on pocket gopher mound,N
+SSP1_7,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_7,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,24-Mar-18,,N
+SSP1_7,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+SSP1_7,1,Slender Leaf,2,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,24-Mar-18,,N
+SSP1_7,1,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,24-Mar-18,,N
+SSP1_7,1,Not Poor Joe,1,Cistaceae,Lechea ,mucronata,pinweed,24-Mar-18,,N
+SSP1_7,1,Silkgrass,40,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,on pocket gopher mound,N
+SSP1_7,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,on pocket gopher mound,N
+SSP1_7,1,Desmodium,1,Fabaceae,Tephrosia ,spicata,spiked hoarypea,24-Mar-18,,N
+SSP1_7,1,Andropogon,40,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_8,1,Wiregrass,60,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_8,1,Andropogon,30,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_8,1,Slender Leaf,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,24-Mar-18,,N
+SSP1_8,1,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+SSP1_8,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_8,1,Not Poor Joe,1,Cistaceae,Lechea ,mucronata,pinweed,24-Mar-18,,N
+SSP1_8,1,Not Clover,1,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,24-Mar-18,,N
+SSP1_8,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+SSP1_8,1,Spinach,4,Asteraceae,Erigeron ,strigosus,prairie fleabane,24-Mar-18,,N
+SSP1_8,1,Desmodium,1,Fabaceae,Tephrosia ,spicata,spiked hoarypea,24-Mar-18,,N
+SSP1_8,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,24-Mar-18,,
+SSP1_8,1,Butterfly Pea,1,Fabaceae,Desmodium,lineatum,Desmodium,24-Mar-18,,N
+SSP1_9,1,Rubus,5,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+SSP1_9,1,Andropogon,85,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_9,1,Little Round Leaf,2,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_9,1,Silkgrass,2,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,24-Mar-18,,N
+SSP1_9,1,Longleaf Seedling,2,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+SSP1_9,1,Yellow Pea,1,Fabaceae,Crotalaria ,rotundifolia,Rabbitbells,24-Mar-18,,N
+SSP1_10,1,Wiregrass,75,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_10,1,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_10,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_10,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,24-Mar-18,,N
+SSP1_11,1,Bracken Fern,5,Dennstaedtiaceae,Pteridium ,aquilinum,bracken fern,24-Mar-18,,N
+SSP1_11,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_11,1,Wiregrass,75,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_11,1,Andropogon,15,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_11,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+SSP1_11,1,Real Gopher Apple,2,Chrysobalanaceae,Licania ,michauxii,gopher apple,24-Mar-18,,N
+SSP1_12,1,Wiregrass,85,Poaceae,Aristida ,stricta,wiregrass,24-Mar-18,,N
+SSP1_12,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,24-Mar-18,,N
+SSP1_12,1,Boring Berry,2,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,24-Mar-18,,N
+SSP1_12,1,Longleaf Seedling,2,Pinaceae,Pinus ,palustris,Longleaf pine,24-Mar-18,,N
+SSP1_12,1,Downward Leaf,1,Fabaceae,Rhynchosia ,reniformis,dollarleaf,24-Mar-18,,N
+SSP1_12,1,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,24-Mar-18,,
+SSP1_13,1,Sassafras,25,Styracaceae,Halesia ,,silverbells tree,25-Mar-18,,
+SSP1_13,1,Bracken Fern,20,Dennstaedtiaceae,Pteridium ,aquilinum,bracken fern,25-Mar-18,,N
+SSP1_13,1,Little Round Leaf,10,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP1_13,1,Clever,10,Rubiaceae,Galium,pilosum,Cleaver,25-Mar-18,,N
+SSP1_13,1,Downward Leaf,10,Fabaceae,Rhynchosia ,reniformis,dollarleaf,25-Mar-18,,N
+SSP1_13,1,Andropogon,5,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP1_13,1,Wiregrass,5,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP1_13,1,Smilax,1,Smilacaceae,Smilax ,bona-nox,bona-nox catbrier,25-Mar-18,,N
+SSP1_13,1,Elephant 2,15,Asteraceae,Hieracium ,gronovii,queendevil,25-Mar-18,,N
+SSP1_13,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP1_13,1,Not Clover,1,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,25-Mar-18,,N
+SSP1_14,1,Bracken Fern,5,Dennstaedtiaceae,Pteridium ,aquilinum,bracken fern,25-Mar-18,,N
+SSP1_14,1,Wiregrass,35,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP1_14,1,Little Round Leaf,5,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP1_14,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP1_14,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP1_14,1,Clever,1,Rubiaceae,Galium,pilosum,Cleaver,25-Mar-18,,N
+SSP1_14,1,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP1_14,1,Downward Leaf,1,Fabaceae,Rhynchosia ,reniformis,dollarleaf,25-Mar-18,,N
+SSP1_14,1,Andropogon,25,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP1_14,1,Yellow Pea,2,Fabaceae,Crotalaria ,rotundifolia,Rabbitbells,25-Mar-18,,N
+SSP1_14,1,Quercus ,1,Fagaceae,Quercus ,falcata,southern red oak,25-Mar-18,,N
+SSP1_14,1,Leaf Litter/Bare Sand,22,NA,NA,NA,NA,25-Mar-18,,
+SSP1_15,1,Little Round Leaf,2,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP1_15,1,Wiregrass,70,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP1_15,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP1_15,1,Not Poor Joe,2,Cistaceae,Lechea ,mucronata,pinweed,25-Mar-18,,N
+SSP1_15,1,Spinach,1,Asteraceae,Erigeron ,strigosus,prairie fleabane,25-Mar-18,,N
+SSP1_15,1,Yellow Flower Flea Bane,1,Asteraceae,Krigia ,virginica,Virginia dwarfdandelion,25-Mar-18,,N
+SSP1_15,1,Andropogon,10,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP1_15,1,Longleaf Seedling,2,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP1_15,1,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP1_16,1,Andropogon,40,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP1_16,1,Wiregrass,10,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP1_16,1,Panicum,10,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP1_16,1,Little Round Leaf ,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP1_16,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP1_16,1,Feathery Panicum,5,Poaceae,Dicanthelium,,Dicanthelium,25-Mar-18,,
+SSP1_16,1,Not Poor Joe,1,Cistaceae,Lechea ,mucronata,pinweed,25-Mar-18,,N
+SSP1_17,1,Wiregrass,65,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP1_17,1,Longleaf Seedling,5,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP1_17,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP1_17,1,Silkgrass,20,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP1_17,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP1_17,1,Feathery Panicum,1,Poaceae,Dicanthelium,,Dicanthelium,25-Mar-18,,
+SSP1_18,1,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP1_18,1,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP1_18,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP1_18,1,Silkgrass,10,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP1_18,1,Gopher Apple,1,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,25-Mar-18,,N
+SSP1_18,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP1_18,1,Sensitive Mimosa,1,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,25-Mar-18,,N
+SSP1_18,1,Downward Leaf,1,Fabaceae,Rhynchosia ,reniformis,dollarleaf,25-Mar-18,,N
+SSP1_18,1,Fuzzy Rabbit Tabacco,1,Asteraceae,Chrysopsis ,mariana ,goldenaster,25-Mar-18,,N
+SSP2_1,1,Sassafras,30,Styracaceae,Halesia ,,silverbells tree,25-Mar-18,,
+SSP2_1,1,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_1,1,Andropogon,30,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_1,1,Rubus,5,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_1,1,Sensitive Mimosa,1,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,25-Mar-18,,N
+SSP2_1,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_1,1,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,25-Mar-18,,N
+SSP2_1,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_1,1,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,25-Mar-18,,N
+SSP2_1,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_1,1,Not Clover,1,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,25-Mar-18,,N
+SSP2_2,1,Wiregrass,70,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_2,1,Andropogon,15,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_2,1,Feathery Panicum,1,Poaceae,Dicanthelium,,Dicanthelium,25-Mar-18,,
+SSP2_2,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_2,1,Downward Leaf,1,Fabaceae,Rhynchosia ,reniformis,dollarleaf,25-Mar-18,,N
+SSP2_2,1,Purple Under,1,Asteraceae,Symphyotrichum ,concolor,eastern silver aster,25-Mar-18,,N
+SSP2_2,1,Slender Leaf,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,25-Mar-18,,
+SSP2_3,1,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_3,1,Rubus,2,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_3,1,Buttontop,1,Asteraceae,,,aster,25-Mar-18,,
+SSP2_3,1,Fuzzy Alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,25-Mar-18,,N
+SSP2_3,1,Super Fuzzy,1,Acanthaceae,Ruellia ,caroliniensis,Carolina wild petunia,25-Mar-18,,N
+SSP2_3,1,Little Round Leaf,2,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_3,1,Slender Leaf,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,25-Mar-18,,N
+SSP2_4,1,Longleaf Pine Tree,3,Pinaceae,Pinus ,palustris,longleaf pine,25-Mar-18,,N
+SSP2_4,1,Wiregrass,25,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_4,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_4,1,Andropogon,50,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_4,1,Not Clover,1,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,25-Mar-18,,N
+SSP2_4,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_4,1,Sensitive Mimosa,1,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,25-Mar-18,,N
+SSP2_4,1,Huckleberry,2,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,25-Mar-18,,N
+SSP2_4,1,Wood Sorrel ,1,Oxalidaceae,Oxalis ,corniculata,wood sorrel,25-Mar-18,,N
+SSP2_4,1,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_4,1,Butterfly Pea,1,Fabaceae,Desmodium,lineatum,Desmodium,25-Mar-18,,N
+SSP2_4,1,Sumac,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,25-Mar-18,,N
+SSP2_5,1,Rubus,15,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_5,1,Broccoli,20,Asteraceae,Ambrosia ,artemisiifolia,ragweed,25-Mar-18,,N
+SSP2_5,1,Buttontop,1,Asteraceae,,,aster,25-Mar-18,,
+SSP2_5,1,Sumac,10,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,25-Mar-18,,N
+SSP2_5,1,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_5,1,Dead Goldenrod,10,NA,NA,NA,NA,25-Mar-18,unidentified,
+SSP2_5,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_5,1,Andropogon,10,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_5,1,Wiregrass,35,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_6,1,Wiregrass,75,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_6,1,Andropogon,10,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_6,1,Longleaf Seedling,2,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_6,1,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_6,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_6,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_6,1,Buttontop,1,Asteraceae,,,aster,25-Mar-18,,
+SSP2_6,1,Lespadeza,1,Fabaceae,Lespedeza,striata,Lespedeza,25-Mar-18,,
+SSP2_6,1,Jerusalem Artichoke ,5,Asteraceae,Rudbeckia,hirta,black-eyed susan,25-Mar-18,,N
+SSP2_6,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_6,1,Sumac,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,25-Mar-18,,N
+SSP2_7,1,Longleaf Pine Tree,2,Pinaceae,Pinus ,palustris,longleaf pine,25-Mar-18,,N
+SSP2_7,1,Sumac,5,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,25-Mar-18,,N
+SSP2_7,1,Wiregrass,70,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_7,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_7,1,Fuzzy Alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,25-Mar-18,,N
+SSP2_7,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_7,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_7,1,Andropogon,5,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_7,1,Spinach,2,Asteraceae,Erigeron ,strigosus,prairie fleabane,25-Mar-18,,N
+SSP2_8,1,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_8,1,Sumac,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,25-Mar-18,,N
+SSP2_8,1,Rubus,5,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_8,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_8,1,Slender Leaf,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,25-Mar-18,,N
+SSP2_8,1,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_8,1,Spinach,1,Asteraceae,Erigeron ,strigosus,prairie fleabane,25-Mar-18,,N
+SSP2_8,1,Sensitive Mimosa,1,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,25-Mar-18,,N
+SSP2_8,1,Longleaf Seedling ,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_9,1,Wiregrass ,85,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_9,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_9,1,Huckleberry,10,Ericaceae,Vaccinium ,darrowii,Darrow's blueberry,25-Mar-18,,N
+SSP2_9,1,Slender Leaf,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,25-Mar-18,,N
+SSP2_9,1,Panicum,1,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_9,1,Yellow Flower Flea Bane,1,Asteraceae,Krigia ,virginica,Virginia dwarfdandelion,25-Mar-18,,N
+SSP2_9,1,Not Poor Joe,1,Cistaceae,Lechea ,mucronata,pinweed,25-Mar-18,,N
+SSP2_9,1,Subaxe,1,Asteraceae,Symphyotrichum ,adnatum,clasping aster/scaleleaf aster,25-Mar-18,,N
+SSP2_9,1,Not Clover,1,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,25-Mar-18,,N
+SSP2_10,1,Rubus,25,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_10,1,Wiregrass,40,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_10,1,Andropogon,5,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_10,1,Downward Leaf,1,Fabaceae,Rhynchosia ,reniformis,dollarleaf,25-Mar-18,,N
+SSP2_10,1,Panicum 2,1,Poaceae,Dichanthelium, dichotomum,cypress panic grass,25-Mar-18,,N
+SSP2_10,1,Yellow Flower Flea Bane,1,Asteraceae,Krigia ,virginica,Virginia dwarfdandelion,25-Mar-18,,N
+SSP2_10,1,Arugala,1,Asteraceae,Erigeron ,strigosus,Daisy fleabane,25-Mar-18,,N
+SSP2_10,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_10,1,Cherry?,1,Cornaceae,Nyssa ,,blackgum/tupelo,25-Mar-18,,
+SSP2_11,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_11,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_11,1,Wiregrass,25,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_11,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_11,1,St. Johns Wart,5,Clusiaceae,Hypericum ,suffruticosum,St. John Wort,25-Mar-18,,N
+SSP2_11,1,Panicum,5,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_11,1,Slender Leaf,5,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,25-Mar-18,,N
+SSP2_11,1,Elephant 2,1,Asteraceae,Hieracium ,gronovii,queendevil,25-Mar-18,,N
+SSP2_11,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_11,1,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_11,1,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_12,1,Wiregrass,60,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_12,1,Sensitive Mimosa,2,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,25-Mar-18,,N
+SSP2_12,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_12,1,Silkgrass,2,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_12,1,Panicum,2,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_12,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_12,1,Longleaf Seedling,3,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_12,1,Broccoli,2,Asteraceae,Ambrosia ,artemisiifolia,ragweed,25-Mar-18,,N
+SSP2_12,1,Upward Leaf,1,Asteraceae,Symphyotrichum ,concolor,eastern silver aster,25-Mar-18,,N
+SSP2_12,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_12,1,Sumac,1,Anacardiaceae,Rhus ,copallinum,winged sumac/dward sumac,25-Mar-18,,N
+SSP2_12,1,Not Clover,2,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,25-Mar-18,,N
+SSP2_13,1,Wiregrass,50,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_13,1,Gopher Apple,20,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,25-Mar-18,,N
+SSP2_13,1,Sensitive Mimosa,1,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,25-Mar-18,,N
+SSP2_13,1,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_13,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_13,1,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_13,1,Slender Leaf,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,25-Mar-18,,N
+SSP2_13,1,Longleaf Seedling,5,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_14,1,Wiregrass,90,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_14,1,Silkgrass,5,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_14,1,Longleaf Seedling,2,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_14,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_14,1,White Dot,1,Euphorbiaceae,Croton ,argyranthemum,Silver croton,25-Mar-18,,N
+SSP2_15,1,Longleaf Pine Tree,25,Pinaceae,Pinus ,palustris,longleaf pine,25-Mar-18,,N
+SSP2_15,1,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_15,1,Gopher Apple,5,Ericaceae,Gaylussacia ,dumosa,dwarf huckleberry,25-Mar-18,,N
+SSP2_15,1,Andropogon,20,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_15,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_15,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_15,1,Fuzzy Alternate,1,Asteraceae,Vernonia ,angustifolia,tall ironweed,25-Mar-18,,N
+SSP2_15,1,Sensitive Mimosa,1,Fabaceae,Mimosa ,quadrivalvis,sensitve fern/sensitive briar/sensitive mimosa,25-Mar-18,,N
+SSP2_15,1,Silkgrass,1,Asteraceae,Pityopsis ,aspera,Pineland silkgrass,25-Mar-18,,N
+SSP2_15,1,Spinach,2,Asteraceae,Erigeron ,strigosus,prairie fleabane,25-Mar-18,,N
+SSP2_15,1,Little Purple,1,Lamiaceae,Scutellaria ,integrifolia,helmet flower/helmet skullcap,25-Mar-18,,
+SSP2_16,1,Wiregrass,30,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_16,1,Rubus,10,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_16,1,Andropogon,30,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_16,1,Lespedeza,5,Fabaceae,Lespedeza,striata,Lespedeza,25-Mar-18,,
+SSP2_16,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_16,1,Alternate,1,Euphorbiaceae,Euphorbia ,pubentissima,false flowering spurge,25-Mar-18,,N
+SSP2_16,1,White Dot,2,Euphorbiaceae,Croton ,argyranthemum,Silver croton,25-Mar-18,,N
+SSP2_16,1,Not Clover,3,Rubiaceae,Houstonia ,procumbens,roundleaf bluet,25-Mar-18,,N
+SSP2_16,1,Woody Debris,18,NA,NA,NA,NA,25-Mar-18,,
+SSP2_17,1,Wiregrass,70,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_17,1,Andropogon,10,Poaceae,Andropogon ,,broomsedge/bluestem,25-Mar-18,,
+SSP2_17,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
+SSP2_17,1,Panicum,2,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_17,1,Flea Bane,1,Asteraceae,Krigia ,virginica,Virginia dwarfdandelion,25-Mar-18,,N
+SSP2_17,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_17,1,Fuzzy Red Stem,1,Cistaceae,Crocanthemum ,carolinianum,carolina rock rose,25-Mar-18,,N
+SSP2_17,1,Slender Leaf,1,Asteraceae,Ionactis ,linariifolia,flax-leaf ankle-aster/flaxleaf whitetop,25-Mar-18,,N
+SSP2_17,1,Longleaf Seedling,1,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_18,1,Longleaf Pine (2) ,5,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_18,1,Wiregrass,50,Poaceae,Aristida ,stricta,wiregrass,25-Mar-18,,N
+SSP2_18,1,Panicum,5,Poaceae,Dichanthelium ,,Dicanthelium,25-Mar-18,,
+SSP2_18,1,White Dot,1,Euphorbiaceae,Croton ,argyranthemum,Silver croton,25-Mar-18,,N
+SSP2_18,1,Longleaf Seedling,2,Pinaceae,Pinus ,palustris,Longleaf pine,25-Mar-18,,N
+SSP2_18,1,Purple Bottom,1,Asteraceae,Symphyotrichum ,concolor,eastern silver aster,25-Mar-18,,N
+SSP2_18,1,Little Round Leaf,1,Acanthaceae,Dyschoriste ,oblongifolia,oblong snakeherb/twinflower,25-Mar-18,,N
+SSP2_18,1,Rubus,1,Rosaceae,Rubus ,cuneifolius,sand blackberry,25-Mar-18,,N
