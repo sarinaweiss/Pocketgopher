@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ####this is for exploratory plots
 
 PGdata <- read.csv("PG_data.csv", header = TRUE, sep = ",")
@@ -109,3 +110,8 @@ ggplot(data = PGdata, mapping = aes(x = family, y = percent_comp)) +
 
 ggplot(data = PGdata, mapping = aes(x = family, y = percent_comp)) +
   geom_boxplot(mapping = aes(colour = gopher))
+=======
+####this is for explorTORY PLOTS
+a<-c(1,2,3,4,5)
+a
+>>>>>>> fb584115d8b63f1bd8f21715a4777bbac16f9c4b
