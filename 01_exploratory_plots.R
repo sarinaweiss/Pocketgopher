@@ -5,10 +5,21 @@ PGdata <- read.csv("PG_data.csv", header = TRUE, sep = ",")
 str(PGdata)
 #612 obs. of  10 variables:
 
-head(PGdata, n = 3)
+head(PGdata)
 tail(PGdata, n = 3)
 summary(PGdata)
 View(PGdata)
+library(tidyverse)
+############ code addition
+pg2<- PGdata %>% 
+  rowid_to_column() %>%  #creates unique id as some row was repeated
+  select(rowid,site,gopher,field_id,percent_comp,family) %>%  #selects few columns
+spread(key= family,value=percent_comp ) #spreads the data based on some value
+  library(plyr)
+
+  pg2[is.na(pg2)]<- 0 ##converts NA to 0
+  head(pg2)
+  
 
 library(help = "graphics")
 plot(PGdata$genus)
