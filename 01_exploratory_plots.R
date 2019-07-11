@@ -20,7 +20,6 @@ spread(key= family,value=percent_comp ) #spreads the data based on some value
   pg2[is.na(pg2)]<- 0 ##converts NA to 0
   head(pg2)
   
-
 library(help = "graphics")
 plot(PGdata$genus)
 plot(PGdata$common)
