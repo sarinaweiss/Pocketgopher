@@ -91,7 +91,18 @@ library(sjPlot)
 ##Additive and Interactive Effects
 n1 <- glm(gopher ~ Fagaceae * Ericaceae, family = binomial, data = pg2)
 n2 <- glm(gopher ~ Fagaceae * Violaceae, family = binomial, data = pg2)
+n3 <- glm(gopher ~ Fagaceae * Smilacaceae, family = binomial, data = pg2)
+n4 <- glm(gopher ~ Ericaceae * Violaceae, family = binomial, data = pg2)
+n5 <- glm(gopher ~ Ericaceae * Smilacaceae, family = binomial, data = pg2)
+n6 <- glm(gopher ~ Violaceae * Smilacaceae, family = binomial, data = pg2)
+out.put2<-model.sel(n1, n2, n3, n4, n5, n6)
+View(out.put2)
+out.put2
 
+n7 <- glm(gopher ~ Fagaceae * Ericaceae * Violaceae, family = binomial, data = pg2)
+n8 <- glm(gopher ~ Fagaceae * Ericaceae * Violaceae * Smilacaceae, family = binomial, data = pg2)
+out.put3<-model.sel(n1, n2, n3, n4, n5, n6, n7, n8)
+out.put3
 
 #Old Code
 ##GLM
